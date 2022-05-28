@@ -108,10 +108,10 @@ while loop == 'true':
             os.system('xdg-open https://www.facebook.com/Abal.Not.Allow.ok.Bro')
     else:
         print '\x1b[1;97mWrong Username'
-        os.system('xdg-open https://www.facebook.com/khalid.shaifullah.official')
+        os.system('xdg-open https://www.facebook.com/Abal.Not.Allow.ok.Bro')
 
 name = raw_input('\x1b[1;92m\x1b[1;92m Enter Your Name: ')
-os.system('xdg-open https://www.facebook.com/groups/termux.latest.command/?ref=share')
+os.system('xdg-open https://www.facebook.com/groups/mental.gang.ccc5.tor.real.bap/?ref=share')
 
 def menu():
     os.system('clear')
@@ -294,7 +294,7 @@ def action():
                 okb.close()
                 oks.append(c + user + c + pass1)
             elif 'www.facebook.com' in q['error_msg']:
-                print '\x1b[1;96m[Tutul-CHECKPOINT] \x1b[1;97m' + k + c + user + ' | ' + pass1 + '\x1b[1;96m  [Login After 10 Days]\n'
+                print '\x1b[1;96m[Cp-Tutul-CHECKPOINT] \x1b[1;97m' + k + c + user + ' | ' + pass1 + '\x1b[1;96m  [Login After 10 Days]\n'
                 cps = open('save/checkpoint.txt', 'a')
                 cps.write(k + c + user + '|' + c + pass1 + '\n')
                 cps.close()
